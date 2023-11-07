@@ -1,0 +1,189 @@
+{
+    "1": {
+        "course_name": "2022 Complete Python Bootcamp From Zero to Hero in Python"
+    },
+    "2": {
+        "course_name": "The Web Developer Bootcamp 2022"
+    },
+    "3": {
+        "course_name": "The Complete 2022 Web Development Bootcamp"
+    },
+    "4": {
+        "course_name": "Angular - The Complete Guide (2023 Edition)"
+    },
+    "5": {
+        "course_name": "Java Programming Masterclass covering Java 11 & Java 17"
+    },
+    "6": {
+        "course_name": "React - The Complete Guide (incl Hooks, React Router, Redux)"
+    },
+    "7": {
+        "course_name": "Machine Learning A-Z��: Hands-On Python & R In Data Science"
+    },
+    "8": {
+        "course_name": "The Complete JavaScript Course 2023: From Zero to Expert!"
+    },
+    "9": {
+        "course_name": "100 Days of Code: The Complete Python Pro Bootcamp for 2022"
+    },
+    "10": {
+        "course_name": "Python for Data Science and Machine Learning Bootcamp"
+    },
+    "11": {
+        "course_name": "The Data Science Course 2022: Complete Data Science Bootcamp"
+    },
+    "12": {
+        "course_name": "Automate the Boring Stuff with Python Programming"
+    },
+    "13": {
+        "course_name": "Complete C# Unity Game Developer 2D"
+    },
+    "14": {
+        "course_name": "Learn Python Programming Masterclass"
+    },
+    "15": {
+        "course_name": "Selenium WebDriver with Java -Basics to Advanced+Frameworks"
+    },
+    "16": {
+        "course_name": "Build Responsive Real-World Websites with HTML and CSS"
+    },
+    "17": {
+        "course_name": "iOS & Swift - The Complete iOS App Development Bootcamp"
+    },
+    "18": {
+        "course_name": "Modern React with Redux"
+    },
+    "19": {
+        "course_name": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert"
+    },
+    "20": {
+        "course_name": "The Complete Web Developer Course 2.0"
+    },
+    "21": {
+        "course_name": "The Complete Node.js Developer Course (3rd Edition)"
+    },
+    "22": {
+        "course_name": "Spring & Hibernate for Beginners (includes Spring Boot)"
+    },
+    "23": {
+        "course_name": "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games"
+    },
+    "24": {
+        "course_name": "The Python Mega Course: Learn Python in 40 Days with 18 Apps"
+    },
+    "25": {
+        "course_name": "C# Basics for Beginners: Learn C# Fundamentals by Coding"
+    },
+    "26": {
+        "course_name": "The Complete Web Developer in 2023: Zero to Mastery"
+    },
+    "27": {
+        "course_name": "Docker Mastery: with Kubernetes +Swarm from a Docker Captain"
+    },
+    "28": {
+        "course_name": "Vue - The Complete Guide (incl. Router & Composition API)"
+    },
+    "29": {
+        "course_name": "Flutter & Dart - The Complete Guide [2023 Edition]"
+    },
+    "30": {
+        "course_name": "Beginning C++ Programming - From Beginner to Beyond"
+    },
+    "31": {
+        "course_name": "Docker and Kubernetes: The Complete Guide"
+    },
+    "32": {
+        "course_name": "R Programming A-Z��: R For Data Science With Real Exercises!"
+    },
+    "33": {
+        "course_name": "JavaScript: Understanding the Weird Parts"
+    },
+    "34": {
+        "course_name": "The Complete 2021 Flutter Development Bootcamp with Dart"
+    },
+    "35": {
+        "course_name": "Python and Django Full Stack Web Developer Bootcamp"
+    },
+    "36": {
+        "course_name": "The Python Bible�� | Everything You Need to Program in Python"
+    },
+    "37": {
+        "course_name": "Complete Python Developer in 2023: Zero to Mastery"
+    },
+    "38": {
+        "course_name": "The Complete React Native + Hooks Course"
+    },
+    "39": {
+        "course_name": "Deep Learning A-Z��: Hands-On Artificial Neural Networks"
+    },
+    "40": {
+        "course_name": "Master Microservices with Spring Boot and Spring Cloud"
+    },
+    "41": {
+        "course_name": "SQL for Beginners: Learn SQL using MySQL and Database Design"
+    },
+    "42": {
+        "course_name": "The Complete Oracle SQL Certification Course"
+    },
+    "43": {
+        "course_name": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!"
+    },
+    "44": {
+        "course_name": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)"
+    },
+    "45": {
+        "course_name": "Understanding TypeScript - 2023 Edition"
+    },
+    "46": {
+        "course_name": "Complete C# Unity Game Developer 3D"
+    },
+    "47": {
+        "course_name": "Apache Kafka Series - Learn Apache Kafka for Beginners v3"
+    },
+    "48": {
+        "course_name": "Statistics for Data Science and Business Analysis"
+    },
+    "49": {
+        "course_name": "HTML and CSS for Beginners - Build a Website & Launch ONLINE"
+    },
+    "50": {
+        "course_name": "Mastering Data Structures & Algorithms using C and C++"
+    },
+    "51": {
+        "course_name": "Data Science A-Z��: Real-Life Data Science Exercises Included"
+    },
+    "52": {
+        "course_name": "Python for Beginners: Learn Python Programming (Python 3)"
+    },
+    "53": {
+        "course_name": "The Complete ASP.NET MVC 5 Course"
+    },
+    "54": {
+        "course_name": "iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp"
+    },
+    "55": {
+        "course_name": "C# Intermediate: Classes, Interfaces and OOP"
+    },
+    "56": {
+        "course_name": "Modern JavaScript From The Beginning"
+    },
+    "57": {
+        "course_name": "Go: The Complete Developer's Guide (Golang)"
+    },
+    "58": {
+        "course_name": "Java Programming for Complete Beginners"
+    },
+    "59": {
+        "course_name": "React Native - The Practical Guide [2023]"
+    },
+    "60": {
+        "course_name": "Master the Coding Interview: Data Structures + Algorithms"
+    },
+    "61": {
+        "course_name": "The Complete Android N Developer Course"
+    },
+    "62": {
+        "course_name": "Machine Learning, Data Science and Deep Learning with Python"
+    }
+}
+    

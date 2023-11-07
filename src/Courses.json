@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "courseName": "Introduction to React",
+      "teacherName": "John Doe",
+      "enrollOption": true
+    },
+    {
+      "id": 2,
+      "courseName": "Web Development Fundamentals",
+      "teacherName": "Jane Smith",
+      "enrollOption": false
+    },
+    {
+      "id": 3,
+      "courseName": "JavaScript Fundamentals",
+      "teacherName": "Bob Johnson",
+      "enrollOption": true
+    }
+  ]
